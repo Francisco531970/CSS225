@@ -5,7 +5,7 @@
 
 import math
 
-# Prompt the user to enter the radius
+# The user will enter the radius
 radius = float(input("Enter the radius of the circle: "))
 
 # Calculate the area of the circle
