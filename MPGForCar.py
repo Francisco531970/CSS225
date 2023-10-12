@@ -3,7 +3,7 @@
 
 # This program computes the MPG rate for a car
 
-# Prompt the user to enter the number of miles driven and gallons used
+# The user will enter the number of miles driven and gallons used
 miles_driven = float(input("Enter the number of miles driven: "))
 gallons_used = float(input("Enter the number of gallons used: "))
 
