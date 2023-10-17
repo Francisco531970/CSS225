@@ -1,6 +1,7 @@
 # Francisco Sanchez
 # 10/17/23
 
+# Here are all the options the user can pick from
 print("Choose an operation: ")
 print("1. Learn Python")
 print("2. Learn Java")
@@ -11,6 +12,7 @@ print("0. Exit")
 
 choice = input("Enter 1 to 0 to choose the operation: ")
 
+# This is what happens once the user picks a choice
 if choice == "1":
     print("How to learn Python")
 if choice == "2":
