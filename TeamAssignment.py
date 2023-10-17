@@ -10,7 +10,7 @@ print("4. Have dinner")
 print("5. Go to bed")
 print("0. Exit")
 
-choice = input("Enter 1 to 0 to choose the operation: ")
+choice = input("Choose from 1 to 0: ")
 
 # This is what happens once the user picks a choice
 if choice == "1":
